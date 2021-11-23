@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31710.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QianShiChat.Server", "QianShiChat.Server\QianShiChat.Server.csproj", "{2362978F-A340-4D17-A4F3-FF21B27444CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QianShiChat.Common", "QianShiChat.Common\QianShiChat.Common.csproj", "{76E0CF9F-A0EF-48DD-831D-3D866B9D99D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2362978F-A340-4D17-A4F3-FF21B27444CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2362978F-A340-4D17-A4F3-FF21B27444CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2362978F-A340-4D17-A4F3-FF21B27444CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2362978F-A340-4D17-A4F3-FF21B27444CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E0CF9F-A0EF-48DD-831D-3D866B9D99D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E0CF9F-A0EF-48DD-831D-3D866B9D99D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E0CF9F-A0EF-48DD-831D-3D866B9D99D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E0CF9F-A0EF-48DD-831D-3D866B9D99D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A3E1E6D-4985-4584-BE9A-E7F0C6646446}
+	EndGlobalSection
+EndGlobal
