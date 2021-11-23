@@ -1,11 +1,6 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-using Furion.DependencyInjection;
+﻿using Furion.DependencyInjection;
 
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging;
 
 using QianShiChat.Server.Managers;
 using QianShiChat.Server.Models.Entities;

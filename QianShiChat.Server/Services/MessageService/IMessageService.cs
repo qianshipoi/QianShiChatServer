@@ -1,6 +1,4 @@
-﻿using System.Threading.Tasks;
-
-using QianShiChat.Server.Models.Entities;
+﻿using QianShiChat.Server.Models.Entities;
 
 namespace QianShiChat.Server.Services.MessageService
 {

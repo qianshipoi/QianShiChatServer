@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace QianShiChat.Server.Extensions
+﻿namespace QianShiChat.Server.Extensions
 {
     public static class DateTimeExtensions
     {

@@ -1,8 +1,4 @@
-﻿using System.Threading.Tasks;
-
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.IdentityModel.Tokens;
+﻿using Microsoft.IdentityModel.Tokens;
 
 namespace QianShiChat.Server.Extensions
 {
