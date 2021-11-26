@@ -41,10 +41,11 @@ namespace QianShiChat.Server
 
             var app = builder.Build();
 
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseInject(string.Empty);
-            }
+            //if (app.Environment.IsDevelopment())
+            //{
+            //    app.UseInject(string.Empty);
+            //}
+            app.UseInject(string.Empty);
 
             app.UseStaticFiles();
 

@@ -1,3 +1,7 @@
-﻿COPY bin/Release/net6.0/publish/ App/
-WORKDIR /App
+FROM mcr.microsoft.com/dotnet/aspnet:6.0
+WORKDIR /app
+EXPOSE 80
+EXPOSE 443
+
+COPY . .
 ENTRYPOINT ["dotnet", "QianShiChat.Server.dll"]
